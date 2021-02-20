@@ -1,0 +1,6 @@
+Program Ideas
+
+Graphical input box for the folder to check
+
+list of files to keep copy or move with where to send them
+
