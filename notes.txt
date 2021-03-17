@@ -1,6 +1,7 @@
 goal -  program to remove duplicate photos from many different folders and drives.
-        determin what os I am running. this is for os specific methods of doing things
-        first recursivly go through a folder and put in a log file, the path and filename 
+        
+        recursivly go through a folder and put in a log file, the path and filename 
         and the sha256 value of the file.  
+        
         find any duplicates using the sha256 value. move the unique files to a new folder.
         
