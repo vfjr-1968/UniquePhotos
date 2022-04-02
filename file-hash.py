@@ -5,7 +5,7 @@
 
 import hashlib
 
-file = "D:\UniquePhotos\001.JPG" # Location of the file
+file = "/media/vfjr/data/EveryPhoto/joe3.JPG" # Location of the file
 BLOCK_SIZE = 65536 # The size of each read from the file
 file_hash = hashlib.sha256() # Create the hash object
 with open(file, 'rb') as f: # Open the file to read it's bytes
